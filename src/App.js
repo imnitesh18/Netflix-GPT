@@ -1,0 +1,11 @@
+import "./App.css";
+
+function App() {
+  return (
+    <div className="text-3xl font-bold underline text-red-800">
+      Hello Nitesh
+    </div>
+  );
+}
+
+export default App;
